@@ -1,6 +1,6 @@
 # A Yen for the Future Activity
 
-## Time-Series Forecasting
+## Time-Series Forecasting Conclusions
 
   ### 1) Based your time series analysis, would you buy the yen now?
 
